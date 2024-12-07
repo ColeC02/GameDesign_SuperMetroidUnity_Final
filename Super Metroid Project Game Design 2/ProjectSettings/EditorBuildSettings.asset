@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/title_screen.unity
+    guid: e85be3d10aecd9a4e83abbbb6d72ea99
+  - enabled: 1
+    path: Assets/Scenes/ceres_testing.unity
+    guid: a26ee7248d5b89b42b4c8aedf4e88f9b
+  - enabled: 1
+    path: Assets/Scenes/ceres_1.unity
+    guid: a5503315ceced1945a751184df0cc8c6
+  - enabled: 1
+    path: Assets/Scenes/ceres_2.unity
+    guid: eceadeb72bea41b49ab7f64ed86b0a4a
+  - enabled: 1
+    path: Assets/Scenes/ceres_3.unity
+    guid: 01a615b7838651b4cb77e3f0ee6fbf40
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e156aa201acaf2649811c25786ce2438, type: 2}
